@@ -8,4 +8,13 @@ state={
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=town
+	history = {
+        	owner = SAN
+		add_core_of = SAN
+		victory_points = { 11252 25 }
+		victory_points = { 841 3 }
+		victory_points = { 9000 4 }
+		victory_points = { 7275 2 }
+		victory_points = { 1241 3 }
+	}
 }

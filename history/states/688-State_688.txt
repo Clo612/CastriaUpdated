@@ -8,4 +8,9 @@ state={
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=town
+	history = {
+        	owner = BUG
+		add_core_of = BUG
+		victory_points = { 4662 3 }
+	}
 }

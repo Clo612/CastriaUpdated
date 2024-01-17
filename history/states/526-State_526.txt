@@ -8,4 +8,13 @@ state={
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=town
+	history = {
+        	owner = TRK
+		add_core_of = TRK
+		victory_points = { 11786 15 }
+		victory_points = { 9031 5 }
+		victory_points = { 6779 2 }
+		victory_points = { 4323 15 }
+		victory_points = { 8878 1 }
+	}
 }

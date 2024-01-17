@@ -8,4 +8,12 @@ state={
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=town
+	history = {
+        	owner = RST
+		add_core_of = RST
+		victory_points = { 15472 15 }
+		victory_points = { 5260 10 }
+		victory_points = { 12116 2 }
+		victory_points = { 7888 20 }
+	}
 }

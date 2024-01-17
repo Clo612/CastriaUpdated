@@ -8,4 +8,14 @@ state={
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=town
+	history = {
+        	owner = FAR
+		add_core_of = FAR
+		victory_points = { 4923 30 }
+		victory_points = { 9019 6 }
+		victory_points = { 1376 3 }
+		victory_points = { 10690 3 }
+		victory_points = { 2180 4 }
+		victory_points = { 10955 2 }
+	}
 }

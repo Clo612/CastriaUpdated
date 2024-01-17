@@ -8,4 +8,11 @@ state={
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=town
+	history = {
+        	owner = IGE
+		add_core_of = IGE
+		victory_points = { 10493 6 }
+		victory_points = { 372 3 }
+		victory_points = { 10349 1 }
+	}
 }

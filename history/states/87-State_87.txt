@@ -8,4 +8,11 @@ state={
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=town
+	history = {
+        	owner = PRT
+		add_core_of = PRT
+		victory_points = { 11745 10 }
+		victory_points = { 1518 4 }
+		victory_points = { 7271 2 }
+	}
 }

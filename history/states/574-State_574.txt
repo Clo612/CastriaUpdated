@@ -8,4 +8,11 @@ state={
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=town
+	history = {
+        	owner = HAJ
+		add_core_of = HAJ
+		victory_points = { 12461 15 }
+		victory_points = { 12345 2 }
+		victory_points = { 6814 1 }
+	}
 }

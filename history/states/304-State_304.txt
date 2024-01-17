@@ -8,4 +8,11 @@ state={
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=town
+	history = {
+        	owner = KHR
+		add_core_of = KHR
+		victory_points = { 5048 5 }
+		victory_points = { 1588 3 }
+		victory_points = { 9933 4 }
+	}
 }

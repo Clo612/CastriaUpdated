@@ -8,4 +8,12 @@ state={
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=town
+	history = {
+        	owner = MDI
+		add_core_of = MDI
+		victory_points = { 11907 25 }
+		victory_points = { 1505 8 }
+		victory_points = { 11653 3 }
+		victory_points = { 4025 1 }
+	}
 }

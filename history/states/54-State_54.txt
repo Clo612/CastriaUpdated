@@ -8,4 +8,11 @@ state={
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=town
+	history = {
+        	owner = ALI
+		add_core_of = ALI
+		victory_points = { 10840 20 }
+		victory_points = { 4652 1 }
+		victory_points = { 7673 1 }
+	}
 }

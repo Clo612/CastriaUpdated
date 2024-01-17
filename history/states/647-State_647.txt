@@ -8,4 +8,10 @@ state={
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=town
+	history = {
+        	owner = WCS
+		add_core_of = WCS
+		victory_points = { 13023 3 }
+		victory_points = { 13171 4 }
+	}
 }

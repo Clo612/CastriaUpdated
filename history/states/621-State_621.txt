@@ -8,4 +8,13 @@ state={
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=town
+	history = {
+        	owner = LOT
+		add_core_of = LOT
+		victory_points = { 13032 15 }
+		victory_points = { 12770 2 }
+		victory_points = { 3433 2 }
+		victory_points = { 12889 4 }
+		victory_points = { 12893 1 }
+	}
 }

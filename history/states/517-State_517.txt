@@ -8,4 +8,12 @@ state={
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=town
+	history = {
+        	owner = VIT
+		add_core_of = VIT
+		victory_points = { 11930 2 }
+		victory_points = { 7335 1 }
+		victory_points = { 2782 1 }
+		victory_points = { 7642 2 }
+	}
 }

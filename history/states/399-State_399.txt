@@ -8,4 +8,12 @@ state={
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=town
+	history = {
+        	owner = KUN
+		add_core_of = KUN
+		victory_points = { 1413 3 }
+		victory_points = { 10543 3 }
+		victory_points = { 6489 2 }
+		victory_points = { 10648 3 }
+	}
 }

@@ -8,4 +8,13 @@ state={
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=town
+	history = {
+        	owner = AUT
+		add_core_of = AUT
+		victory_points = { 7752 1 }
+		victory_points = { 3618 2 }
+		victory_points = { 1096 2 }
+		victory_points = { 13493 2 }
+		victory_points = { 4534 1 }
+	}
 }

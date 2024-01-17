@@ -7,4 +7,13 @@ state={
 	buildings_max_level_factor=1.000
         manpower=1
         state_category = town
+	history = {
+        	owner = SOF
+		add_core_of = SOF
+		victory_points = { 11072 5 }
+		victory_points = { 11286 2 }
+		victory_points = { 1915 4 }
+		victory_points = { 4044 25 }
+		victory_points = { 3735 3 }
+	}
 }
